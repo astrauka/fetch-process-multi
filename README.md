@@ -65,5 +65,5 @@ and push the `.gem` file to [rubygems.org](https://rubygems.org).
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at
-[https://github.com/vinted/fetch-process-multi](https://github.com/vinted/fetch-process-multi).
+[https://github.com/astrauka/fetch-process-multi](https://github.com/astrauka/fetch-process-multi).
 
