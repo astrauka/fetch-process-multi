@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Fetch and process multi allows you to calculate and cache multiple values}
   spec.description   = %q{Fetch and process multi allows you to calculate and cache multiple values}
-  spec.homepage      = 'https://github.com/vinted/fetch-process-multi'
+  spec.homepage      = 'https://github.com/astrauka/fetch-process-multi'
   spec.licenses      = ['MIT']
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
